@@ -2,7 +2,7 @@
 Here are my writeups for cryptos I upsolved:
 
 - [ ] SECCON CTF 2021
-    - [ ] pppp
+    - [X] pppp
     - [ ] cerberus
     - [ ] Sign Wars
     - [ ] oOoOoO
