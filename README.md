@@ -1,6 +1,13 @@
 # Crypto-Upsolve-Writupes
 Here are my writeups for cryptos I upsolved:
 
+- [ ] SECCON CTF 2021
+    - [ ] pppp
+    - [ ] cerberus
+    - [ ] Sign Wars
+    - [ ] oOoOoO
+    - [ ] CCC
+    - [ ] XXX
 - [ ] hpx CTF 2016
     - [ ] haggis
     - [ ] hiecss
@@ -73,10 +80,3 @@ Here are my writeups for cryptos I upsolved:
     - [ ] Psych
     - [ ] Shibari
     - [ ] Learning Without Errors
-- [ ] SECCON CTF 2021
-    - [ ] pppp
-    - [ ] cerberus
-    - [ ] Sign Wars
-    - [ ] oOoOoO
-    - [ ] CCC
-    - [ ] XXX
