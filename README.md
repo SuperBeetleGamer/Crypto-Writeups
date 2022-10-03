@@ -1,2 +1,82 @@
 # Crypto-Upsolve-Writupes
-Here are my writeups for cryptos I upsolved
+Here are my writeups for cryptos I upsolved:
+
+- [ ] hpx CTF 2016
+    - [ ] haggis
+    - [ ] hiecss
+    - [ ] pythia
+    - [ ] dream
+    - [ ] ndis
+    - [ ] tacos
+    - [ ] shaman
+- [ ] hpx CTF 2017
+    - [ ] flea
+    - [ ] ouchenticated
+    - [ ] drm
+    - [ ] notsosmart
+    - [ ] 4ES
+    - [ ] categorial
+    - [ ] fibonacci
+- [ ] hxp CTF 2018
+    - [ ] daring
+    - [ ] curve12833227
+    - [ ] blind
+    - [ ] blinder
+- [ ] hxp CTF 2019
+    - [ ] bacon
+    - [ ] nacht
+    - [ ] dumb_theory
+    - [ ] SaV-Is-I-aaS
+    - [ ] fortuna_hell
+    - [ ] numb_theory
+- [ ] hxp CTF 2020
+    - [ ] nanothorpe
+    - [ ] hyper
+    - [ ] minithorpe
+    - [ ] hyperhyper
+    - [ ] octothorpe
+- [ ] hxp CTF 2021
+    - [ ] zipfel
+    - [ ] f_cktoring
+- [ ] TokyoWesterns CTF 2020
+    - [ ] sqrt
+    - [ ] The Melancholy of Alice
+- [ ] PwnTheBytes 2019
+    - [ ] Avec?
+    - [ ] Wrong Ring
+    - [ ] LOTR
+- [ ] 0CTF 2021
+    - [ ] zer0lfsr-
+- [ ] Google CTF 2019
+    - [ ] reality
+    - [ ] Reverse a cellular automata
+- [ ] Plaid CTF 2018
+    - [ ] Transducipher
+- [ ] Dragon CTF 2021
+    - [ ] CRC Recursive Challenge
+- [ ] Hack.lu CTF 2018
+    - [ ] LFSR StreamCipher
+    - [ ] Relations
+    - [ ] Escape the Grid
+- [ ] HITCON CTF 2018
+    - [ ] Lost Modulus
+    - [ ] Lost Key
+- [ ] Pwn2Win CTF 2021
+    - [ ] Oh, Anna Julia
+    - [ ] A2S
+- [ ] Dice CTF 2022
+    - [ ] Baby-RSA
+    - [ ] Rejected
+    - [ ] Commitment-Issues
+    - [ ] Correlated
+    - [ ] Pow-Pow
+    - [ ] Psych
+    - [ ] Shibari
+    - [ ] Learning Without Errors
+- [ ] SECCON CTF 2021
+    - [ ] pppp
+    - [ ] cerberus
+    - [ ] Sign Wars
+    - [ ] oOoOoO
+    - [ ] CCC
+    - [ ] XXX
