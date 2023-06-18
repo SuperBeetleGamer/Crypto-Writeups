@@ -1,2 +1,2 @@
 # Crypto-Upsolve-Writupes
-Here are my writeups for cryptos I solve/upsolved!
+Here are my writeups for cryptos I solved/upsolved!
