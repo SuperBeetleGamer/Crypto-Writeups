@@ -125,13 +125,13 @@ def N_validity_check(p1, q1, N):
 
 Hmmmmm. So the server will give us a random value `b` and perform $b^{N+1-p_1-q_1}$ and then hash it. It asks us for our hash first as we have to figure out the hash of this value before they calculate it. Well... how do we do this? Remember earlier when I mentioned that you can control N to anything you want? Well, let's do it!
 
-For my solution, I submitted $-(p_1\*q_1)^{e}$, $p_1^e$, $q_1^e$, and $(2^1024)^e$. Why? Well, lets expand it out:
+For my solution, I submitted $-(p_1\*q_1)^{e}$, $p_1^e$, $q_1^e$, and $(2^{1024})^e$. Why? Well, lets expand it out:
 
 Everything get's decrypted so I'll just get rid of the e's. We get:
 
-$N = p_1\*q_1 - p_1\*q_1 + p_1 + q_1 + 2^1024 = p_1 + q_1 + 2^1024$
+$N = p_1\*q_1 - p_1\*q_1 + p_1 + q_1 + 2^{1024} = p_1 + q_1 + 2^{1024}$
 
-This means that $b^{N+1-p_1-q_1}$ is really just $b^{2^1024 + 1}$. Nice, we pass the validity check.
+This means that $b^{N+1-p_1-q_1}$ is really just $b^{2^{1024} + 1}$. Nice, we pass the validity check.
 
 Now, the server spits back the encrypted flag and the modulus and its standard RSA decryption from there. Now you may be thinking, SBG isn't a 1024 bit RSA modulus really hard to factor. Yes. It is. But at 3am, SBG gets lucky. In fact, he got so lucky, that he chucked his modulus into alpetron to factor it. What did it come out as?
 
