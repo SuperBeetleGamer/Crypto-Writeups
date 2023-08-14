@@ -29,7 +29,8 @@ Oh look! Key = Key. In my head, I thought `Key` was the password which I tried. 
 
 Time to ask the admins! Moments before disaster:
 
-*Insert images here*
+![](https://github.com/SuperBeetleGamer/Crypto-Writeups/blob/main/LITCTF%202023/Screen%20Shot%202023-08-12%20at%2010.45.43%20PM.png)
+![](https://github.com/SuperBeetleGamer/Crypto-Writeups/blob/main/LITCTF%202023/Screen%20Shot%202023-08-12%20at%2010.46.30%20PM.png)
 
 So we get the fully uncompressed zip on our end. After that, it's a simple `zsteg -a kirbycooking.png | grep LITCTF{`
 
