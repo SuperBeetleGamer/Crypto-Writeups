@@ -25,7 +25,11 @@ And convert it to ASCII to get:
 P As the soup was ready, my grandmother ladled it into bowls and handed them to us with a smile. I took a sip and was blown away by the flavors. It was the best vegetable soup I had ever tasted. I asked my grandmother if she could teach me how to make it, and she agreed. Key = Key
 ```
 
-Oh look! Key = Key. In my head, I thought `Key` was the password which I tried. Surprisingly, the password protected zip unzipped! It seemed to be a corrupted png. Looking further, I didn't notice anything wrong. I mean... The zip uncompressed fine.
+Oh look! Key = Key. In my head, I thought `Key` was the password which I tried. Surprisingly, the password protected zip unzipped! 
+
+![](https://github.com/SuperBeetleGamer/Crypto-Writeups/blob/main/LITCTF%202023/Kirby_s_zip.gif)
+
+It seemed to be a corrupted png. Looking further, I didn't notice anything wrong. I mean... The zip uncompressed fine.
 
 Time to ask the admins! Moments before disaster:
 
