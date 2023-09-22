@@ -144,7 +144,7 @@ Where $\Delta$ is the differential, $C_1$ and $C_2$ are the ciphertext pairs tha
 
 However, since the equation is under modular of 2^64, the inverse of $\Delta$ doesn't exist. Luckily, (by means I do not understand) the inverse() function from pycryptodome was able to do that.
 Since there are multiple ciphertext pairs that satisfy condition 1, each subkey was kept and the most common subkey was returned.
-Since this is an odd subkey, we do not know the LSB of the actual key. We also don't know the MSB of the actual key but I don't know why.
+Since this is an odd subkey, we do not know the LSB of the actual key. We also don't know the MSB of the actual key.
 So, we return all 4 possibilities of the actual key which include the odd-subkey in it.
 
 ```py
